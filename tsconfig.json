@@ -1,15 +1,12 @@
 {
   "compilerOptions": {
-      "module": "commonjs",
-      "moduleResolution": "node",
-      "declaration": true,
-      "target": "es6",
-      "noImplicitAny": true,
-      "removeComments": true,
-      "outDir": "dist"
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "declaration": true,
+    "target": "es5",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "outDir": "dist"
   },
-  "exclude": [
-      "node_modules",
-      "dist",
-  ]
+  "exclude": ["node_modules", "dist"]
 }

@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const IRomanNumeral = {
+var IRomanNumeral = {
     I: 1,
     V: 5,
     X: 10,

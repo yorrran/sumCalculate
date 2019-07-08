@@ -22,7 +22,3 @@ export const romanToArabic = (str: string) => {
   }
   return res;
 };
-
-module.exports = {
-  romanToArabic
-};
